@@ -50,4 +50,7 @@ group :development, :test do
 
   #Makes voting easy.
   gem 'acts_as_votable', '~> 0.10.0'
+
+  #Comment Forms.
+  gem 'simple_form', '~>3.0.2'
 end
