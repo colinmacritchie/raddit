@@ -47,4 +47,7 @@ group :development, :test do
 
   #Installs Bootstrap-Sass.
   gem 'bootstrap-sass', '~> 3.3.5.1'
+
+  #Makes voting easy.
+  gem 'acts_as_votable', '~> 0.10.0'
 end
